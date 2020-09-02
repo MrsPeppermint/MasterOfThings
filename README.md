@@ -1,7 +1,7 @@
-MasterOfThings
+OSSUm 
 ===============
 
-Main repository for my latest life project.
+Main repository for my awesome project.
 ------------------------------------------
 
 Currently on my way to a whole new world.
