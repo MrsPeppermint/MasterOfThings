@@ -1,5 +1,3 @@
-# following links with BeautifulSoup
-
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
